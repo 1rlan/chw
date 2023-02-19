@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mdfiles/Сортировка_Подсчетом.md",
+                "file": "mdfiles/Операции_Большие_массивы.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "c9829fa2376c4ae6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mdfiles/Сортировка_Подсчетом.md",
+                "file": "mdfiles/Операции_Большие_массивы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mdfiles/Сортировка_Подсчетом.md",
+                "file": "mdfiles/Операции_Большие_массивы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mdfiles/Сортировка_Подсчетом.md"
+                "file": "mdfiles/Операции_Большие_массивы.md"
               }
             }
           }
@@ -148,15 +156,15 @@
   },
   "active": "29c49f0a5c6b00d1",
   "lastOpenFiles": [
-    "mdfiles/Сортировка_Выбором.md",
-    "mdfiles/Сортировка_Вставками.md",
-    "mdfiles/Сортировка_Шелла_(Шелла).md",
-    "mdfiles/Сортировка_Шелла_(Циура).md",
-    "mdfiles/Сортировка_Пирамидальная.md",
-    "mdfiles/Сортировка_Быстрая.md",
-    "mdfiles/Сортировка_Слиянием.md",
-    "mdfiles/Сортировка_Цифровая.md",
-    "mdfiles/Сортировка_Подсчетом.md",
-    "mdfiles/Сортировка_Бинарными_Вставками.md"
+    "mdfiles/Сортировка_Бинарными_Вставками.md",
+    "mdfiles/Операции_Маленькие_массивы.md",
+    "imgs/16.png",
+    "imgs/15.png",
+    "imgs/14.png",
+    "imgs/13.png",
+    "imgs/12.png",
+    "imgs/11.png",
+    "imgs/10.png",
+    "imgs/9.png"
   ]
 }
