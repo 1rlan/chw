@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mdfiles/Операции_Маленькие_массивы.md",
+                "file": "mdfiles/Сортировка_Шелла_(Шелла).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mdfiles/Операции_Маленькие_массивы.md",
+                "file": "mdfiles/Сортировка_Шелла_(Шелла).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mdfiles/Операции_Маленькие_массивы.md",
+                "file": "mdfiles/Сортировка_Шелла_(Шелла).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mdfiles/Операции_Маленькие_массивы.md"
+                "file": "mdfiles/Сортировка_Шелла_(Шелла).md"
               }
             }
           }
@@ -156,15 +156,15 @@
   },
   "active": "29c49f0a5c6b00d1",
   "lastOpenFiles": [
+    "mdfiles/Сортировка_Шелла_(Циура).md",
+    "mdfiles/Сортировка_Шелла_(Шелла).md",
+    "mdfiles/Сортировка_Пирамидальная.md",
+    "mdfiles/Сортировка_Быстрая.md",
+    "mdfiles/Сортировка_Слиянием.md",
+    "mdfiles/Сортировка_Цифровая.md",
+    "mdfiles/Сортировка_Подсчетом.md",
     "mdfiles/Сортировка_Бинарными_Вставками.md",
-    "mdfiles/Операции_Большие_массивы.md",
-    "mdfiles/Время_Маленькие_массивы.md",
-    "mdfiles/Время_Большие_массивы.md",
-    "mdfiles/Операции_Маленькие_массивы.md",
-    "imgs/16.png",
-    "imgs/15.png",
-    "imgs/14.png",
-    "imgs/13.png",
-    "imgs/12.png"
+    "mdfiles/Сортировка_Выбором.md",
+    "mdfiles/Сортировка_Вставками.md"
   ]
 }
